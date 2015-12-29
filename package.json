@@ -1,0 +1,41 @@
+{
+  "name": "rehab-stretching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adorris1/rehab-stretching.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adorris1/rehab-stretching/issues"
+  },
+  "homepage": "https://github.com/adorris1/rehab-stretching#readme",
+  "dependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-plugin-react-transform": "^2.0.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "babel-runtime": "^6.3.19",
+    "express": "^4.13.3",
+    "express-stormpath": "^2.3.4",
+    "history": "^1.13.1",
+    "react": "^0.14.3",
+    "react-document-title": "^2.0.1",
+    "react-dom": "^0.14.3",
+    "react-router": "^1.0.2",
+    "react-stormpath": "^0.3.0",
+    "webpack": "^1.12.9"
+  },
+  "devDependencies": {
+    "webpack-dev-middleware": "^1.4.0"
+  }
+}
